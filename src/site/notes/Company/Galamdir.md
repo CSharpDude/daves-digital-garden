@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/company/galamdir/","tags":["TOR","tolkien","lord-of-the-rings"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
 ![Galamdir.png|200](/img/user/zz_assetts/Galamdir.png)
 
