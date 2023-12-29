@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/patrons/gandalf/","tags":["TOR","lord-of-the-rings","tolkien"]}
 ---
 
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 #### Info
 Gandalf the Grey, Mithrandir, Grey Pilgrim
 
