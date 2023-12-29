@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/allies/rangers-of-the-north/","tags":["TOR","lord-of-the-rings","tolkien"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
 ![Pasted image rangers.png](/img/user/zz_assetts/Pasted%20image%20rangers.png)
 
