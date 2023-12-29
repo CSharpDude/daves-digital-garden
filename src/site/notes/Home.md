@@ -4,12 +4,14 @@
 
 Web Link: https://daves-digital-garden.vercel.app/
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
 The adventures of [[Company/Ereborn\|Ereborn]], [[Company/Galamdir\|Galamdir]] and [[Company/Gorin\|Gorin]] in Middle earth.
 
 Current Campaign: 
 ## Opposing the Shadow
+
+List of Session Here: [[Sessions/Session List\|Session List]]
 
 ![shire1 1.jpg](/img/user/zz_assetts/shire1%201.jpg)
 
