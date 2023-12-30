@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-5-a-new-journey-west/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 4 (Fellowship)\|Session 4 (Fellowship)]] | [[Sessions/Session 6 - Barrow Downs\|Session 6 - Barrow Downs]] >>
 ### Recap
 In Session 4 of the Fellowship's journey in Middle-earth, they returned to Rivendell after their encounter with orcs at Rhudaur's Eye. They informed Gilraen the Fair about the events and the potential threat of a larger force. Gilraen examined a magical sword they had found and warned them of its power and potential dangers. The Fellowship enjoyed the hospitality of the Elves in Rivendell, and Gorin recovered from his injuries. They also had a brief encounter with Arwen Undómiel, which left them in awe. The next day, Gilraen called them to discuss a powerful servant of the enemy seen near Bree, and she tasked the Fellowship with investigating and foiling their plans. They prepared for their journey and set off on August 21.
