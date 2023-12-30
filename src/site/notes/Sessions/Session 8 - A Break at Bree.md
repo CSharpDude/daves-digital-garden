@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-8-a-break-at-bree/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 7 - Lights On The Downs\|Session 7 - Lights On The Downs]] | [[Sessions/Session 9 - Word From Rivendell\|Session 9 - Word From Rivendell]] >>
 ### Recap
 In Session 7, the Fellowship continued their journey towards Bree and encountered strange lights in the Barrow Downs. They were attacked by a group of Barrow Men, but managed to defeat them. They then ventured into a large barrow and discovered a Barrow Wight. With the help of the enchanted sword "Man-belthor," they were able to defeat the Wight. They found some treasure, including a ring belonging to the loremaster Duilin of Gondolin. They decided to report their findings to Gilraen and made camp for the night before heading back to Bree.
