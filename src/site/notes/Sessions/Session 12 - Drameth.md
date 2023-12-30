@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-12-drameth/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 11 - The Search for Drameth\|Session 11 - The Search for Drameth]] | [[Sessions/Session 13 - Bree - Fellowship\|Session 13 - Bree - Fellowship]] >>
 ### Recap
 In Session 11, the Fellowship continued their search for Drameth. Galamdir took on the task of calming Nalien, who was on the verge of madness. They camped near the battlefield and set off early to search for Drameth. After two days of searching, they discovered Blossum Mound, a hill where Halfling archers had fought bravely in the battle. They took shelter from the rain and rested. They then headed north from the mound and reached the Northern Slopes, where Nalien remembered seeing Drameth riding alongside Prince Ëarnur of Gondor. They decided to journey north to complete their quest. That night, they all had a dream of Nalien and Drameth fighting together in a great battle. They continued their journey through the grey, windy country and reached the Sheltered Fields, where Nalien sensed that it was the spot where Drameth fell in battle.
