@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-17-shadowwing-tower/","tags":["TOR","tolkien","lord-of-the-rings"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 16 - Hunt in the Trollshaws\|Session 16 - Hunt in the Trollshaws]] | [[Sessions/Session 18 - (Fellowship) Bree\|Session 18 - (Fellowship) Bree]] >>
 ### Recap
 The company has found the lair of the [[Adversaries/Shadowwing Brotherhood\|Shadowwing Brotherhood]] in the Trollshaws. It is heavily guarded. In order to sneak into the hideout which is a crumbling tower, they decided to coerce a family of Trolls to attack them, and then lead the trolls to the hideout. They could then quietly sneak into the tower in the ensuing chaos.
