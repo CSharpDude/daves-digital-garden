@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/company/gorin/","tags":["TOR","tolkien","lord-of-the-rings"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
 ![Gorin.png|200](/img/user/zz_assetts/Gorin.png)
 ### Description
