@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-11-the-search-for-drameth/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 10 - The Road North\|Session 10 - The Road North]] | [[Sessions/Session 12 - Drameth\|Session 12 - Drameth]] >>
 ### Recap
 In Session 10, the Fellowship left Bree and traveled along the ancient North Road towards Fornost. The journey was slow and challenging, with the road in disrepair. They camped under fir trees, fished for food, and encountered the distant howls of wolves. As they approached Fornost, they were greeted by a desolate and ruined city, filled with a sense of profound desolation. They decided to search the ruins for treasure but ultimately followed Gilraen's message to the Fields of Slaughter. There, they found the elf Nalien being pursued by orcs. The Fellowship engaged in a fierce battle, with Gorin and Ereborn sustaining injuries. They managed to defeat the orcs and save Nalien, who revealed her mission to find her friend Drameth's shade. The Fellowship now faces a decision on how to proceed, as Nalien's madness grows and they must choose whether to follow her or prioritize their own recovery.
