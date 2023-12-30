@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-10-the-road-north/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 9 - Word From Rivendell\|Session 9 - Word From Rivendell]] | [[Sessions/Session 11 - The Search for Drameth\|Session 11 - The Search for Drameth]] >>
 ### Recap
 In Session 9, the Fellowship returned to the Prancing Pony inn in Bree after their encounter with Barrow Wights. They were approached by a ranger named Basil, who delivered a letter from Gilraen the Fair. After confirming Basil's trustworthiness, they received the letter and a small leather sack of coins. Gilraen requested their help in traveling north to Fornost to deal with more undead and find a distressed Elf named Nalien. Gorin expressed skepticism, but they decided to read the letter and prepare for their journey. They informed the innkeeper of their departure and learned of rumors about Fornost being haunted.
