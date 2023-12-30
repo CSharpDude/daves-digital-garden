@@ -3,7 +3,7 @@
 ---
 
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
 ![Raven Logo.png|200](/img/user/zz_assetts/Raven%20Logo.png)
 
