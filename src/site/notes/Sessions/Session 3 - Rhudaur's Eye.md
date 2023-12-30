@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-3-rhudaur-s-eye/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 2 - Back to Bree\|Session 2 - Back to Bree]] | [[Sessions/Session 4 (Fellowship)\|Session 4 (Fellowship)]] >>
 ### Recap
 In Session 2 of the "Opposing the Shadow" campaign in the world of TOR, the party returned to Bree in search of a missing ranger named Eodred. They encountered a young boy named Alfred who had escaped from goblins attacking his family's cottage near Weathertop. Alfred believed his father, Carlson, was still alive and asked for help in rescuing him. The party successfully tended to Alfred's wounds and convinced the people of Bree to offer aid. They then set off towards Rhudaur's Eye, guided by Alfred, hoping to find Eodred and the missing family members.
