@@ -3,7 +3,7 @@
 ---
 
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 13 - Bree - Fellowship\|Session 13 - Bree - Fellowship]] | [[Sessions/Session 15 - Carlson's House\|Session 15 - Carlson's House]] >>
 
 ![Chetwood.png](/img/user/zz_assetts/Chetwood.png)
