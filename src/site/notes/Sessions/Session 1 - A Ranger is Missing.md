@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-1-a-ranger-is-missing/","tags":["gilraen","session","bree","hobbiton","TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Home\|Home]] | [[Sessions/Session 2 - Back to Bree\|Session 2 - Back to Bree]] >>
 
 ## Note About These Session Logs
