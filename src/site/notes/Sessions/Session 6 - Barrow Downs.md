@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-6-barrow-downs/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 5 - A New Journey West\|Session 5 - A New Journey West]] | [[Sessions/Session 7 - Lights On The Downs\|Session 7 - Lights On The Downs]] >>
 ### Recap
 In Session 5 of the Fellowship's journey in Middle-earth, they left Rivendell and embarked on a new journey west. They traveled with sturdy horses and made their way towards Bree, hoping to gather information about the strange occurrences they had encountered. Along the way, they faced challenges such as a flooded road and a lone wolf, but managed to overcome them. Upon reaching Bree, they learned from the innkeeper, Barnabas Butterbur, about strange lights and rumors of a wight-king gathering the dead in the Barrow Downs. They met a trader named Tom Little who confirmed these rumors and pointed them to a specific location on the map. With their next move planned, the Fellowship prepared for their encounter with the unknown.
