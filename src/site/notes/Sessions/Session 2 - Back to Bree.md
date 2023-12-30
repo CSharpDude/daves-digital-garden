@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-2-back-to-bree/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 1 - A Ranger is Missing\|Session 1 - A Ranger is Missing]] | [[Sessions/Session 3 - Rhudaur's Eye\|Session 3 - Rhudaur's Eye]] >>
 ### Recap
 In Session 1 of the "Opposing the Shadow" campaign, the party received a quest from Gilraen to find a missing Ranger named Arondar. They embarked on a journey from Rivendell to Hobbiton, stopping in Bree along the way. During their travels, they encountered a joyful sight of a white stag, found shortcuts that saved them time, and had a chance meeting with another ranger who provided information about Eodred, the missing Ranger. In Bree, they discovered that Eodred had helped a widow named Elsura Fogbottom deal with ruffians who had stolen a locket from her husband's grave. Eodred then left for Hobbiton. The party continued their journey to Hobbiton, encountering eagles and a minor injury along the way. In Hobbiton, they learned that Eodred may have gone to a tower near Weathertop and decided to investigate further.
