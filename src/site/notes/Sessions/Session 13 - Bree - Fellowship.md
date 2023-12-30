@@ -3,7 +3,7 @@
 ---
 
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 12 - Drameth\|Session 12 - Drameth]]| [[Sessions/Session 14 - The Chetwood\|Session 14 - The Chetwood]] >>
 
 ### Recap
