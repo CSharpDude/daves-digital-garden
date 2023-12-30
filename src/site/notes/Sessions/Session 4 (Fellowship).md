@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-4-fellowship/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 3 - Rhudaur's Eye\|Session 3 - Rhudaur's Eye]] | [[Sessions/Session 5 - A New Journey West\|Session 5 - A New Journey West]] >>
 ### Recap
 In Session 3 - Rhudaur's Eye, the party set out for Rhudaur's Eye with the boy Alfred. They encountered a camp of orcs outside the tower and successfully defeated them, freeing a captive man. They discovered valuable treasures, including a dwarven ring and a Númenórean long sword. They also found Carlson's family hiding nearby and decided to stay in the tower to search for hidden treasure. They discovered the Knight of Rhudaur's tithe and the body of Eodred. Later, they were attacked by a pack of wolves but managed to defeat them. Gorin sustained injuries but they stayed with Carlson's family until he recovered before heading back to Rivendell.
