@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-9-word-from-rivendell/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 8 - A Break at Bree\|Session 8 - A Break at Bree]] | [[Sessions/Session 10 - The Road North\|Session 10 - The Road North]] >>
 ### Recap
 In Session 8, the Fellowship arrived in Bree after their encounter with Barrow Wights. They sought refuge at the Prancing Pony inn and were approached by a ranger named Basil, who delivered a letter from Gilraen the Fair. After confirming Basil's trustworthiness, they gave him a letter in return. The company then spent time resting and writing songs, with Gorin composing a victory song about their Barrow Downs adventure. Galamdir and Ereborn visited Reeve's Hall, a hidden treasure trove of knowledge, where they studied maps and writings. They received word from Gilraen after two weeks of waiting in Bree.
