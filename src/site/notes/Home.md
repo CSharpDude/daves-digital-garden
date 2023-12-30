@@ -4,7 +4,7 @@
 
 Web Link: https://daves-digital-garden.vercel.app/
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
 The adventures of [[Company/Ereborn\|Ereborn]], [[Company/Galamdir\|Galamdir]] and [[Company/Gorin\|Gorin]] in Middle earth.
 
