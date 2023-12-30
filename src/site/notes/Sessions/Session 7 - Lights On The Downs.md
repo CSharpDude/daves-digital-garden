@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-7-lights-on-the-downs/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 6 - Barrow Downs\|Session 6 - Barrow Downs]] | [[Sessions/Session 8 - A Break at Bree\|Session 8 - A Break at Bree]] >>
 ### Recap
 In Session 6 of the Fellowship's journey in Middle-earth, they left Rivendell and traveled towards Bree. Along the way, they faced challenges such as a flooded road and a lone wolf, but managed to overcome them. In Bree, they learned about strange lights and rumors of a wight-king gathering the dead in the Barrow Downs. They encountered a group of bandits on their way to the Barrow Downs and successfully fought them off. They then noticed flickering lights in the distance and decided to make camp before venturing into the Barrows. Galamdir made a joke about being distracted by the lights. As they settled down for the night, the protagonist decided to rename their sword "Man-belthor" to "Shadow-bane."
