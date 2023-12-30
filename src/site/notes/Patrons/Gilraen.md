@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/patrons/gilraen/","tags":["TOR","lord-of-the-rings","tolkien"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 #### Info
 Gilraen the Fair, Daughter of Dírhael 
 
