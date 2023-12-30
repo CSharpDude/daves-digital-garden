@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-16-hunt-in-the-trollshaws/","tags":["TOR","tolkien","lord-of-the-rings"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 15 - Carlson's House\|Session 15 - Carlson's House]] | [[Sessions/Session 17 - Shadowwing Tower\|Session 17 - Shadowwing Tower]] >>
 ### Recap
 In Session 15 the company visited Carlson's farm and had a pleasant dinner with him. They then encountered a dwarf assassin on their journey and successfully defeated him. The company continued their journey to the Trollshaws and came across a breathtaking glade. They set up camp there and gained a sense of hope. The next day, they proceeded towards the Trollshaws and crossed into the dangerous forest.
