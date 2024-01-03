@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-2-back-to-bree/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 1 - A Ranger is Missing\|Session 1 - A Ranger is Missing]] | [[Sessions/Session 3 - Rhudaur's Eye\|Session 3 - Rhudaur's Eye]] >>
 ### Recap
 In Session 1 of the "Opposing the Shadow" campaign, the party received a quest from Gilraen to find a missing Ranger named Arondar. They embarked on a journey from Rivendell to Hobbiton, stopping in Bree along the way. During their travels, they encountered a joyful sight of a white stag, found shortcuts that saved them time, and had a chance meeting with another ranger who provided information about Eodred, the missing Ranger. In Bree, they discovered that Eodred had helped a widow named Elsura Fogbottom deal with ruffians who had stolen a locket from her husband's grave. Eodred then left for Hobbiton. The party continued their journey to Hobbiton, encountering eagles and a minor injury along the way. In Hobbiton, they learned that Eodred may have gone to a tower near Weathertop and decided to investigate further.
@@ -11,7 +11,7 @@ In Session 1 of the "Opposing the Shadow" campaign, the party received a quest f
 | ----- | ----- | ----- |
 | Guide: | Gorin |xx|
 | Scout: | Ereborn |xxxx |
-| Lookout: | Galamdir |xxxx | 
+| Lookout: | Amdiriel |xxxx | 
 | Hunter: | Ereborn |  |
 
 Hearing that Eodred left with a farmer known well in Bree, we decided to ask about the farmer in Bree. Hopefully when we find the farmer, we'll find our missing ranger.
@@ -42,7 +42,7 @@ Healing: SUCCESS tend Alfred’s wounds such that he is able to accompany the PC
 
 Battle: SUCCESS to advise the people of Bree of the threat orcs would pose if granted a fortified position on a trade-route. This pushes them to offer practical aid in the form of a loan of a Useful Item. 
 
-Nimble boots to enhance stealth +1d, given to Galamdir.
+Nimble boots to enhance stealth +1d, given to Amdiriel.
 
 Lore: SUCCESS to use your knowledge and planning for additional information on the Eye, preparing the PC for what lies ahead.
 
@@ -58,12 +58,12 @@ The Eye was built and named as Rhudaur envied the Fortress of Amon Sul at Weathe
 
 > You are aware of tales that the Knight of Rhudaur was allowed to keep an tenth of the tolls he extracted and an old rhyme claims these were hidden behind the third stone up from the floor in the corner of the master’s bedroom, for the successor Kingdoms were forged when Arnor was broken into three Kingdoms and the number three was considered lucky.
 
-We decide to leave immediately with Alfred in the hopes of finding his family and Eodred. As we approach the gate, Galamdir throws a copper in the fountain.
+We decide to leave immediately with Alfred in the hopes of finding his family and Eodred. As we approach the gate, Amdiriel throws a copper in the fountain.
 
 ![Gorin 1.png|inlL|75](/img/user/zz_assetts/Gorin%201.png)"What was that for? " Gorin exclaimed. "I coulda used that at the Prancing Pony if yer jes throwin it away!"
 
-![Galamdir.png|inlL|75](/img/user/zz_assetts/Galamdir.png)"It is an old Bree custom that is supposed to bring luck" she laughed.
-Galamdir gets 1d on the first journey event she faces.
+![Amdiriel.png|inlL|75](/img/user/zz_assetts/Amdiriel.png)"It is an old Bree custom that is supposed to bring luck" she laughed.
+Amdiriel gets 1d on the first journey event she faces.
 
 We headed west on the Great East Road with Alfred as our guide to lead us to his home and on then to Rhudaur’s Eye. What would we find? Is Eodred alive? What about Alfred's father, mother and Giles?
 ### Rhudaur's Eye
