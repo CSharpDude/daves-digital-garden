@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/sessions/session-18-fellowship-bree/","tags":["TOR","tolkien","lord-of-the-rings"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 
 << [[Sessions/Session 17 - Shadowwing Tower\|Session 17 - Shadowwing Tower]] | [[Sessions/Session 19 - Finding Halbarad\|Session 19 - Finding Halbarad]] >>
 ### Recap
-The company successfully found the lair of the Shadowwing Brotherhood in the Trollshaws. They devised a plan to lead a family of Trolls to attack the tower, allowing them to sneak in unnoticed. After setting up camp and luring the trolls towards the tower, creating a distraction as trolls attacked and Galamdir snuck inside to retrieve the Chronicles of Annuminas. They managed to escape with the scrolls and were met by Gandalf on their way to Bree, where they delivered the Chronicles to their guardian.
+The company successfully found the lair of the Shadowwing Brotherhood in the Trollshaws. They devised a plan to lead a family of Trolls to attack the tower, allowing them to sneak in unnoticed. After setting up camp and luring the trolls towards the tower, creating a distraction as trolls attacked and Amdiriel snuck inside to retrieve the Chronicles of Annuminas. They managed to escape with the scrolls and were met by Gandalf on their way to Bree, where they delivered the Chronicles to their guardian.
 ### Log
 Shadow Gained: 2 points during Journeys
 Shadow Points Removed: 1
@@ -15,7 +15,7 @@ Adventure Points Gained: 12
 
 "Rest for several days my friends. I suppose you will be wanting to get back to Rivendell?" asked Gandalf.
 
-"Yes. Galamdir and I will celebrate Yule there and Gorin I think will be heading home for a visit." I answered.
+"Yes. Amdiriel and I will celebrate Yule there and Gorin I think will be heading home for a visit." I answered.
 
 "Aye, I've much to tell my folk about the things we've found. They'll want to know. And I have a few trinkets to store as well!" he said with a twinkle in his eye.
 
@@ -24,7 +24,7 @@ Adventure Points Gained: 12
 -----------
 While we were talking to some of the Bree-folk one of them told us this story:
 
-[[Rumors/Rumours\|Rumours]]
+[[Rumors/Rumors\|Rumors]]
 "One of the traders from Tharbad, he was, with a cart full of foreign wares. Came through here not a fortnight ago, and said he'd be staying at the Forsaken Inn on the Great East Road for the night, before heading back south. No one's seen hide nor hair of him since. They say the inn's been deserted for years, but he was adamant it's under new management. Some travelers claim to see lights in the windows from a distance, but the closer they get, everything goes dark. Folks are startin' to whisper about ghosts, or worse..."
 
 ## Meeting  With [[Patrons/Gandalf\|Gandalf]]
