@@ -3,7 +3,7 @@
 ---
 
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 12 - Drameth\|Session 12 - Drameth]]| [[Sessions/Session 14 - The Chetwood\|Session 14 - The Chetwood]] >>
 
 ### Recap
@@ -11,7 +11,7 @@ In Session 12 of the Opposing the Shadow campaign in Middle-earth, the Fellowshi
 ### A Surprise Meeting
 We reached Bree in the second week of October and, as was now our custom, headed to the Prancing Pony for refreshment and lodging. As we approached the bar, Barnabas, nodding towards a dark alcove in the rear of the room,  quietly told us "Someone's here what's looking for you. Mysterious woman sitting in the rear."
 
-Glancing at each other, conveying unsaid caution to be ready for anything, we slowly made our way toward the dark alcove. As we approached the table, Gorin moved to the right and Galamdir to the left. We would not be taken by surprise. At the table was what appeared to be a woman dressed in a green hooded cloak, the cloak obscuring her face from view. It was as if her face had no memorable details.
+Glancing at each other, conveying unsaid caution to be ready for anything, we slowly made our way toward the dark alcove. As we approached the table, Gorin moved to the right and Amdiriel to the left. We would not be taken by surprise. At the table was what appeared to be a woman dressed in a green hooded cloak, the cloak obscuring her face from view. It was as if her face had no memorable details.
 
 ![Gilraen Inn.png|200](/img/user/zz_assetts/Gilraen%20Inn.png)
 
@@ -35,11 +35,11 @@ After a moment's pause, the grey figure responded with "Nonsense. A wizard is ne
 
 "Mithrandir, I have ways to prevent even the Enemy from knowing my travels, at least for the present." Looking at us, she continued, "My friends, tell us both all that you have discovered on your journey to the North. Tells us of Nalien and the one she sought. Leave nothing out. Take what time you need. I have given word and dinner shall be brought shortly."
 
-We began at the beginning when we last left Bree and explained how we encountered Nalien, the state she was in when we found her, paying special attention to her curious madness. We told them about the the orcs that pursued her, how we fought them, and of our injuries. I told of the cleverness of Galamdir that provided time for Gorin and I to heal. But we spent the most time describing our encounter with Drameth and the three Fell Wraiths.
+We began at the beginning when we last left Bree and explained how we encountered Nalien, the state she was in when we found her, paying special attention to her curious madness. We told them about the the orcs that pursued her, how we fought them, and of our injuries. I told of the cleverness of Amdiriel that provided time for Gorin and I to heal. But we spent the most time describing our encounter with Drameth and the three Fell Wraiths.
 
 "It is amazing that you are alive, much less victorious" mused the wizard. "You say when this Drameth passed from this life she seemed - relieved. Would you say she looked as if she had been freed from something?"
 
-Galamdir answered, "Yes. Most definitely. It seemed as if she had been held prisoner and forced into the horrible visage we witnessed, but that it was not really her. It was not her true essence. Once freed by the Blade of Arahel, also called Mán-belthor, the wraith-slayer,  the real Drameth was once again free to be herself, if only for a moment. She seemed at peace."
+Amdiriel answered, "Yes. Most definitely. It seemed as if she had been held prisoner and forced into the horrible visage we witnessed, but that it was not really her. It was not her true essence. Once freed by the Blade of Arahel, also called Mán-belthor, the wraith-slayer,  the real Drameth was once again free to be herself, if only for a moment. She seemed at peace."
 
 "Do you see My Lady? It is as we have feared." Gandalf sighed. "Something or someone is able to exert power over the dead. Not for a long time, a very long time, has this kind of power come to Middle Earth."
 
@@ -51,16 +51,16 @@ Galamdir answered, "Yes. Most definitely. It seemed as if she had been held pris
 
 She stood up and pulling her hooded cloak closely about her, she left the inn. Three cloaked figures I had not before seen stood as she passed and followed her into the night. The Elven magic of the cloaks of Rivendell was truly remarkable.
 
-"Well then. I suggest you three get some rest and recuperation. Smoke not a few pipefuls of Old Toby, go fishing, do what you want, but meet me here in fifteen days. I bid you all good night." Then he too exited the Pony leaving Gorin, Galamdir and I looking at each other with quizzical expressions on our faces. It seemed there was more at foot than we knew.
+"Well then. I suggest you three get some rest and recuperation. Smoke not a few pipefuls of Old Toby, go fishing, do what you want, but meet me here in fifteen days. I bid you all good night." Then he too exited the Pony leaving Gorin, Amdiriel and I looking at each other with quizzical expressions on our faces. It seemed there was more at foot than we knew.
 
 "My good sirs and lady." A male servant  brought us a tray with roast meats, cheese, onions, fruit and the Pony's dark molasses bread, and of course ale to wash it all down. "The Green Lady has paid for dinner and your rooms for a fortnight."
 
 ---------------
 ### Fellowship
 
-We passed the next fortnight in Bree, our room and board paid for by the Lady Gilraen. Gorin found another group of dwarves that were passing through on their way to somewhere. He spent many hours drinking and smoking, and telling stories with them in the Pony. Galamdir spent more time with her books. While Gorin was telling tall tales to his new friends, Galamdir and I sometimes ventured into the surrounding countryside on picnic, enjoying the fall weather. The trees were aflame with color and the air crisp and clear. It was hard to believe it was just a few weeks ago that we were battling for our lives with the Fell Wraiths of Fornost and Drameth.
+We passed the next fortnight in Bree, our room and board paid for by the Lady Gilraen. Gorin found another group of dwarves that were passing through on their way to somewhere. He spent many hours drinking and smoking, and telling stories with them in the Pony. Amdiriel spent more time with her books. While Gorin was telling tall tales to his new friends, Amdiriel and I sometimes ventured into the surrounding countryside on picnic, enjoying the fall weather. The trees were aflame with color and the air crisp and clear. It was hard to believe it was just a few weeks ago that we were battling for our lives with the Fell Wraiths of Fornost and Drameth.
 
-But Gorin did not spend all his time in drinking games with his dwarven friends. We three spent good times together as well and our friendships deepened ever further. Even Gorin was good-hearted towards Galamdir. Though he still held elves in contempt, he made an exception for her. And for her part, Galamdir seemed to genuinely like the dwarf. She laughed at his jokes and struggled to solve his riddles.
+But Gorin did not spend all his time in drinking games with his dwarven friends. We three spent good times together as well and our friendships deepened ever further. Even Gorin was good-hearted towards Amdiriel. Though he still held elves in contempt, he made an exception for her. And for her part, Amdiriel seemed to genuinely like the dwarf. She laughed at his jokes and struggled to solve his riddles.
 
 > Undertaking: Strengthen the Fellowship. +1 Fellowship until next Fellowship Phase.
 
@@ -79,7 +79,7 @@ The evening of the full moon we waited in The Pony for Gandalf's arrival. Amidst
 
 Their last known location was within a Ranger's cache, secretly kept in the Chetwood, but the cache was found empty. The tracks were peculiar, elusive even, some heading east towards the Misty Mountains, others towards the south. Your task will be to seek the Chronicles and return them to their rightful guardians. I suspect the culprits are not your ordinary bandits, for they cleverly evaded the Rangers' watch. Be wary, and trust not too lightly."
 
-"Galamdir, you've been studying local maps and writings. Have you learned anything about this Chetwood?" I asked.
+"Amdiriel, you've been studying local maps and writings. Have you learned anything about this Chetwood?" I asked.
 
 "Yes. The Chetwood is a forest located to the east of Bree and south of the Great East Road. It is a dense and ancient woodland, known for its tall and thick trees. The Chetwood is a mysterious and somewhat foreboding place, with tales of strange happenings and encounters with creatures such as wolves and spiders.
 
