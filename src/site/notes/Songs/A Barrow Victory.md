@@ -3,7 +3,7 @@
 ---
 
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 
 ![Battle_Song.png](/img/user/zz_assetts/Battle_Song.png)
 
