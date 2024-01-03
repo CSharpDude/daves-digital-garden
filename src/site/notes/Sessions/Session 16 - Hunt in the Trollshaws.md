@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-16-hunt-in-the-trollshaws/","tags":["TOR","tolkien","lord-of-the-rings"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 15 - Carlson's House\|Session 15 - Carlson's House]] | [[Sessions/Session 17 - Shadowwing Tower\|Session 17 - Shadowwing Tower]] >>
 ### Recap
 In Session 15 the company visited Carlson's farm and had a pleasant dinner with him. They then encountered a dwarf assassin on their journey and successfully defeated him. The company continued their journey to the Trollshaws and came across a breathtaking glade. They set up camp there and gained a sense of hope. The next day, they proceeded towards the Trollshaws and crossed into the dangerous forest.
@@ -10,7 +10,7 @@ In Session 15 the company visited Carlson's farm and had a pleasant dinner with 
 ![Pasted image 20231225231405.png](/img/user/zz_assetts/Pasted%20image%2020231225231405.png)
 ### Log
 
-The next morning we began scouting the area, looking for any clues we might find. It could take a long time to uncover the location of this secretive group, the [[Adversaries/Shadowwing Brotherhood\|Shadowwing Brotherhood]]. About noon, Gorin called out, "Ho! Over here! I've found something." Galamdir and I hurried to his call. He stood on a rock, pointing at the muddy bank of a small, swift stream. "See here? There are traces of footprints in the mud. Similar to the ones we found in Chetwood." I looked but couldn't make them out. He had excellent tracking skills.
+The next morning we began scouting the area, looking for any clues we might find. It could take a long time to uncover the location of this secretive group, the [[Adversaries/Shadowwing Brotherhood\|Shadowwing Brotherhood]]. About noon, Gorin called out, "Ho! Over here! I've found something." Amdiriel and I hurried to his call. He stood on a rock, pointing at the muddy bank of a small, swift stream. "See here? There are traces of footprints in the mud. Similar to the ones we found in Chetwood." I looked but couldn't make them out. He had excellent tracking skills.
 
 They lead directly west, deeper into the forest. And so we set off that afternoon into the elder woods in search of our prey. As we moved quietly through the woods, Gorin motioned for us to stop. He hand-signaled for us to look ahead and to the right.
 ### The Hideout
@@ -33,7 +33,7 @@ We retreated into a small valley between two rocky ledges to discuss our options
 
 I thought about it for a few moments before answering. This would be the most dangerous mission we had yet attempted if we proceeded. What other options did we have? "We might be able to create a diversion that would draw many or most of the Brotherhood out of the tower. It could also keep the other's attention diverted from our, um, visit."
 
-"What kind of diversion?" Galamdir asked and then added thoughtfully, "If we could encourage some local trolls to attack, that might work. This **is** the Trollshaws. How hard could it be to find a family of trolls?"
+"What kind of diversion?" Amdiriel asked and then added thoughtfully, "If we could encourage some local trolls to attack, that might work. This **is** the Trollshaws. How hard could it be to find a family of trolls?"
 
 Gorin nodded his head and smiled wryly. We decided to search and see if we could locate a nearby troll home.
 
