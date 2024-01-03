@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-3-rhudaur-s-eye/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 2 - Back to Bree\|Session 2 - Back to Bree]] | [[Sessions/Session 4 (Fellowship)\|Session 4 (Fellowship)]] >>
 ### Recap
 In Session 2 of the "Opposing the Shadow" campaign in the world of TOR, the party returned to Bree in search of a missing ranger named Eodred. They encountered a young boy named Alfred who had escaped from goblins attacking his family's cottage near Weathertop. Alfred believed his father, Carlson, was still alive and asked for help in rescuing him. The party successfully tended to Alfred's wounds and convinced the people of Bree to offer aid. They then set off towards Rhudaur's Eye, guided by Alfred, hoping to find Eodred and the missing family members.
@@ -28,7 +28,7 @@ Alfred led us to a small hill from which we could observe the Eye. The enemy had
 
 We silently maneuvered ourselves closer to the camp but remained hidden in the brush and trees. We told Alfred to stay where he was and to run back to Bree if things went awry. 
 
-Galamdir struck the first blow, sending an arrow into the shoulder of the chieftain. Gorin and I let loose our arrows as well. The orc camp was in confusion, and Gorin and I attacked head-on while Galamdir continued to let arrows fly. The chieftain fell under her barrage, while three orc soldiers attacked Gorin. I felled on soldier and Gorin another but he had taken a beating. Two orc archers fired back at Galamdir but she avoided their shots. moving swiftly along the tree line.
+Amdiriel struck the first blow, sending an arrow into the shoulder of the chieftain. Gorin and I let loose our arrows as well. The orc camp was in confusion, and Gorin and I attacked head-on while Amdiriel continued to let arrows fly. The chieftain fell under her barrage, while three orc soldiers attacked Gorin. I felled on soldier and Gorin another but he had taken a beating. Two orc archers fired back at Amdiriel but she avoided their shots. moving swiftly along the tree line.
 
 Another orc fell under Gorin's axe and the archer moved into melee range. In another few minutes all of the orcs lay dead in their camp, but Gorin had paid a heavy price.
 
@@ -69,7 +69,7 @@ I handed her the longsword. Running her slender fingers over the hilt and blade.
 
 ![Blade of Arahel.png|200](/img/user/zz_assetts/Blade%20of%20Arahel.png)
 
-Galamdir was able to identify these as Orcs coming from Mount Gram due to the crude mountain insignia on their shields and their equipment. Would they return? Likely given the camp they left.
+Amdiriel was able to identify these as Orcs coming from Mount Gram due to the crude mountain insignia on their shields and their equipment. Would they return? Likely given the camp they left.
 
 We headed back towards Carlson's house, determined to find his wife and other children. After searching for a short while I found two sets of tracks. One led to the forest, the other nearby.
 
@@ -77,9 +77,9 @@ Emma (Alfred’s Brave mother) and her Clever twin daughters, Holly and Fern wer
 
 Giles Cooperson, their Nervous, Reforming farmhand, hid nearby. He was exiled from Bree for repeated theft, but has started to mend his ways at the Eye, like many before him.
 
-Carlson and his family decided to stay in the tower, where they could secure the strong door behind them. We accompanied them there, wanting to search out this place to find what we could learn (and look for the hidden treasure Gorin reminded me!). Galamdir took first watch on the broken tower and we settled in for some much needed rest.
+Carlson and his family decided to stay in the tower, where they could secure the strong door behind them. We accompanied them there, wanting to search out this place to find what we could learn (and look for the hidden treasure Gorin reminded me!). Amdiriel took first watch on the broken tower and we settled in for some much needed rest.
 
-As we searched the tower the next morning, Galamdir recalled an old rhyme about the tower. Tales tell that the Knight of Rhudaur was allowed to keep an tenth of the tolls he extracted and the old rhyme claims these were hidden behind the third stone up from the floor in the corner of the master’s bedroom, for the successor Kingdoms were forged when Arnor was broken into three Kingdoms and the number three was considered lucky.
+As we searched the tower the next morning, Amdiriel recalled an old rhyme about the tower. Tales tell that the Knight of Rhudaur was allowed to keep an tenth of the tolls he extracted and the old rhyme claims these were hidden behind the third stone up from the floor in the corner of the master’s bedroom, for the successor Kingdoms were forged when Arnor was broken into three Kingdoms and the number three was considered lucky.
 
 We made our way to the bedchamber, but ever the treasure hound, Gorin had already discovered the hidden compartment! Inside was a sturdy wooden chest with black iron strapping. After a minute of effort, Gorin threw open the arched lid. Inside was a small amount of gold, the remains of the Knight's tithe.
 
@@ -99,21 +99,21 @@ Encounter
 4 wolves
 1 wolf chieftain
 
-Both Galamdir and I targeted the large wolf leader. My arrow missed it's mark but hers flew true and lodged in the great beast's side. Just then another arrow flew from the tower. It was Holly, armed with a hunting bow! Holly's arrow struck the wolf at the base of the neck, slowing him greatly. I wanted to shout "Great shot", but there was no time. The wolves were upon us.
+Both Amdiriel and I targeted the large wolf leader. My arrow missed it's mark but hers flew true and lodged in the great beast's side. Just then another arrow flew from the tower. It was Holly, armed with a hunting bow! Holly's arrow struck the wolf at the base of the neck, slowing him greatly. I wanted to shout "Great shot", but there was no time. The wolves were upon us.
 
-Galamdir, running to the left to avoid the jaws of a wolf, let another arrow fly striking the lead beast in the right flank. He was limping badly now. Gorin swung his great axe and connected with the closest wolf, opening a gash on his back. The wolf tried to bite back but his jaws clamped on only air. A second wolf bit his arm, but the leather armor kept Gorin from injury.
+Amdiriel, running to the left to avoid the jaws of a wolf, let another arrow fly striking the lead beast in the right flank. He was limping badly now. Gorin swung his great axe and connected with the closest wolf, opening a gash on his back. The wolf tried to bite back but his jaws clamped on only air. A second wolf bit his arm, but the leather armor kept Gorin from injury.
 
-I swing my new-found sword and grievously injured a large wolf. He got his revenge though and bit through my armor. Galamdir, still dancing with another wolf, loosed another arrow at the great wolf that was now attacking me. She struck through the right eye and he dropped to the ground without a sound.
+I swing my new-found sword and grievously injured a large wolf. He got his revenge though and bit through my armor. Amdiriel, still dancing with another wolf, loosed another arrow at the great wolf that was now attacking me. She struck through the right eye and he dropped to the ground without a sound.
 
 Gorin swung his great axe, cleaving a wolf's head from his body. The head rolled across the field like a child's ball. The other wolf reacted quickly and bit down on his shoulder. Holly shot an arrow at the wolf but missed.
 
 Swinging again at the wolf nearest me, the sword struck true and with a yelp, the animal keeled over, dead.
 
-Galamdir danced to left but this time her wolf met her feint and grabbed her arm just as she tried to knock another arrow. Now only a few feet away, I moved into position behind the beast and swung, but missed. Gorin was now fighting a second wolf. He raised his great axe for a mighty blow but missed as the wolf dodged left. Turning in mid-stride with snakelike speed the wolf clamped his jaws on Gorin's shoulder. The razor sharp teeth hooked under his arm and opened a deep gash as Gorin let out a shout. "Ye smelly fur-covered devil. I'll cleave ye in two for that!" I could see that Gorin was now favoring his arm.
+Amdiriel danced to left but this time her wolf met her feint and grabbed her arm just as she tried to knock another arrow. Now only a few feet away, I moved into position behind the beast and swung, but missed. Gorin was now fighting a second wolf. He raised his great axe for a mighty blow but missed as the wolf dodged left. Turning in mid-stride with snakelike speed the wolf clamped his jaws on Gorin's shoulder. The razor sharp teeth hooked under his arm and opened a deep gash as Gorin let out a shout. "Ye smelly fur-covered devil. I'll cleave ye in two for that!" I could see that Gorin was now favoring his arm.
 
-Again my sword found its mark and the wolf jumped back in pain. He weakly lunged at my sword arm, but missed as I drew it back from his jaws. Galamdir, now free from attack, shot an arrow into the wolf's left hind quarter. Gorin's axe came down once more, this time with deadly effect. There was one wolf left.
+Again my sword found its mark and the wolf jumped back in pain. He weakly lunged at my sword arm, but missed as I drew it back from his jaws. Amdiriel, now free from attack, shot an arrow into the wolf's left hind quarter. Gorin's axe came down once more, this time with deadly effect. There was one wolf left.
 
-One more swing of my sword and the field was silent, save for the wind. "This is gonna leave a mark, laddie!" said Gorin as he tried moving his shoulder. Galamdir too looked weary but not seriously damaged. We looked up at the tower to see Holly waving. Carlson and Giles ran out to help Gorin inside, but he shrugged them off. "It's just a scratch." he protested. "I've gotten worse wrestlin' with me wee cousin."
+One more swing of my sword and the field was silent, save for the wind. "This is gonna leave a mark, laddie!" said Gorin as he tried moving his shoulder. Amdiriel too looked weary but not seriously damaged. We looked up at the tower to see Holly waving. Carlson and Giles ran out to help Gorin inside, but he shrugged them off. "It's just a scratch." he protested. "I've gotten worse wrestlin' with me wee cousin."
 
 Back in the tower, we looked at Gorin's wounds. They were bad, but should heal in a week or so. We did what we could for now. We decided to spend the night with Carlson and his family. We would return the horses to Bree in the morning. 
 
@@ -123,7 +123,7 @@ The next morning Emma made a simple breakfast of hen's eggs and cheese. It was a
 
 " I know that horsemaster John Ferny. He don't take none too kindly with rangers. No sir. But he owes me a favor or two. I'd say a fair price would be two gold a head. He'd surely try to get more out of you. If you want, I'll take it to him. We might spend a night or two in town anyways."
 
-"That's good of you Carlson." Galamdir said quietly and then very sternly she continued "I don't think we've seen the last of that band of orcs here. They left a small guard but I'm certain they'll return with a whole troupe. You might want to stay away for a good while. At least until fall."
+"That's good of you Carlson." Amdiriel said quietly and then very sternly she continued "I don't think we've seen the last of that band of orcs here. They left a small guard but I'm certain they'll return with a whole troupe. You might want to stay away for a good while. At least until fall."
 
 Carlson didn't like that. He'd have to leave their farm, but begrudgingly he agreed. Perhaps we could check in on them next time we pass through. 
 
