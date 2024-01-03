@@ -4,7 +4,7 @@
 
 [[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
-<< [[Sessions/Session 19 - Finding Halbarad\|Session 19 - Finding Halbarad]] | [[]] >>
+<< [[Sessions/Session 19 - Finding Halbarad\|Session 19 - Finding Halbarad]] | [[Sessions/Session 21 - Yule\|Session 21 - Yule]] >>
 ### Recap
 Our company left Bree and embarked on a journey to find Halbarad, a leader of the Rangers. Along the way, we encountered serene landscapes and a majestic stag. Upon reaching the Stoor Pool, we delivered a message from Gandalf to Halbarad, who informed us of the presence of Orcs in the South Downs. We offered our assistance and defended the camp against a pack of wargs, emerging victorious. After tending to our wounds, we rested with the Rangers for a few days before continuing our journey to Rivendell.
 
