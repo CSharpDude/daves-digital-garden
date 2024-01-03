@@ -3,13 +3,13 @@
 ---
 
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 13 - Bree - Fellowship\|Session 13 - Bree - Fellowship]] | [[Sessions/Session 15 - Carlson's House\|Session 15 - Carlson's House]] >>
 
 ![Chetwood.png](/img/user/zz_assetts/Chetwood.png)
 
 ### Recap
-In Session 13, the Fellowship returned to Bree after their battle with Drameth and the Wraiths. They were surprised to find Gilraen, who revealed that Gandalf the Grey was also present. Gandalf explained that the Chronicles of Annúminas, ancient records of the North Kingdom, had been stolen and tasked the Fellowship with retrieving them. They learned that the culprits had evaded the Rangers and their tracks led towards the Misty Mountains and the south. Galamdir provided information about the Chetwood, a dense and mysterious forest east of Bree, where they would begin their search. The Fellowship spent the next fortnight strengthening their bonds and gathering rumors about the "Shadow Wanderers" in the Chetwood. They then met with Gandalf on the full moon, who officially assigned them the task of finding the stolen Chronicles.
+In Session 13, the Fellowship returned to Bree after their battle with Drameth and the Wraiths. They were surprised to find Gilraen, who revealed that Gandalf the Grey was also present. Gandalf explained that the Chronicles of Annúminas, ancient records of the North Kingdom, had been stolen and tasked the Fellowship with retrieving them. They learned that the culprits had evaded the Rangers and their tracks led towards the Misty Mountains and the south. Amdiriel provided information about the Chetwood, a dense and mysterious forest east of Bree, where they would begin their search. The Fellowship spent the next fortnight strengthening their bonds and gathering rumors about the "Shadow Wanderers" in the Chetwood. They then met with Gandalf on the full moon, who officially assigned them the task of finding the stolen Chronicles.
 
 ### A Journey Begins
 We left early the next morning for Chetwood with Gorin in the lead, looking for clues as to where the Ranger cache might be. We only had a general idea and it took most of the day to locate it. It had been disturbed as we thought it would. Tracks around the area where strange and inconsistent. Some lead north, some east, some south. Which to follow?
@@ -36,7 +36,7 @@ Their cloaks were emblazoned with a raven surrounded by a circle of runes of som
 
 With that we bid the Hobbits good day. "So east it is that we must go."
 
-"Let me see that." Galamdir looked carefully at the drawing. "This resembles the emblem of a group known as the [[Adversaries/Shadowwing Brotherhood\|Shadowwing Brotherhood]]. They are said to have the ability to move unseen and strike their foes from the shadows. They would not be above helping an agent of the enemy for a price. They are supposed to have a hidden enclave somewhere in the Trollshaws."
+"Let me see that." Amdiriel looked carefully at the drawing. "This resembles the emblem of a group known as the [[Adversaries/Shadowwing Brotherhood\|Shadowwing Brotherhood]]. They are said to have the ability to move unseen and strike their foes from the shadows. They would not be above helping an agent of the enemy for a price. They are supposed to have a hidden enclave somewhere in the Trollshaws."
 
 "The Trollshaws. Ack, I hate trolls." spat Gorin. "But it seems we're a-goin' that way laddie. Keep a torch handy. We should camp here for the night and strike out in the mornin'."
 
