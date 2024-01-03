@@ -3,11 +3,11 @@
 ---
 
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 14 - The Chetwood\|Session 14 - The Chetwood]] | [[Sessions/Session 16 - Hunt in the Trollshaws\|Session 16 - Hunt in the Trollshaws]] >>
 
 ### Recap
-In Session 14, the Fellowship embarked on their journey to the Chetwood, a dense forest east of Bree, in search of clues about the stolen Chronicles of Annúminas. After a day of searching, they discovered a group of Hobbits who had encountered a band of cloaked men moving eastward. The Hobbits provided a drawing of the emblem on their cloaks, resembling the symbol of the Shadowwing Brotherhood. Galamdir identified this group as secretive and potentially allied with the enemy. The Fellowship decided to head towards the Trollshaws, where the Brotherhood was rumored to have a hidden enclave. They set up camp for the night and prepared to continue their quest in the morning.
+In Session 14, the Fellowship embarked on their journey to the Chetwood, a dense forest east of Bree, in search of clues about the stolen Chronicles of Annúminas. After a day of searching, they discovered a group of Hobbits who had encountered a band of cloaked men moving eastward. The Hobbits provided a drawing of the emblem on their cloaks, resembling the symbol of the Shadowwing Brotherhood. Amdiriel identified this group as secretive and potentially allied with the enemy. The Fellowship decided to head towards the Trollshaws, where the Brotherhood was rumored to have a hidden enclave. They set up camp for the night and prepared to continue their quest in the morning.
 
 ### Carlson
 November 1
@@ -25,9 +25,9 @@ As we were setting up camp, a dwarf with a murderous look in his eye jumped out 
 
 Gorin's axe swung quickly as he regained his feet, striking the ambusher squarely in the chest. He let out a loud grunt of pain as he was knocked back by the blow. Seeing the opening, I stabbed at him with Shadowbane and pierced his armor. The dwarf double over and dropped to the ground, dead.
 
-We searched the dwarf's body and found not a clue as to why he attacked us (or was he attacking Gorin?). Galamdir then noticed the haft of his dagger. Engraved on the hilt was a simple raven. So, he was linked to the group we were seeking! But why would he attack alone? 
+We searched the dwarf's body and found not a clue as to why he attacked us (or was he attacking Gorin?). Amdiriel then noticed the haft of his dagger. Engraved on the hilt was a simple raven. So, he was linked to the group we were seeking! But why would he attack alone? 
 
-We were going to stay extra vigilant this night/ Galamdir took first watch.
+We were going to stay extra vigilant this night/ Amdiriel took first watch.
 
 > Company receives 1 extra fatigue
 
