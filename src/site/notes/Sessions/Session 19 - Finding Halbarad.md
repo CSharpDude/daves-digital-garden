@@ -26,7 +26,7 @@ On the 28th of November we reached the quiet solitude of the Stoor Pool. We were
 
 "You have something for me from the Grey Pilgrim I believe." and he held out is hands. I placed the sealed note in his outstretched hands. Halbarad noted the seal and gently opened the parcel. He stood for a moment then turned away as he read it. "This is ill news, Ereborn. Yes, Gandalf told me your names. It seems Orcs are moving into the South Downs. That is not good, not good."
 
-"The downs are close to the Shire and Bree." sighed Galamdir. "This is not good news indeed. What is to be done? Can you muster enough men to meet them in battle?"
+"The downs are close to the Shire and Bree." sighed Amdiriel. "This is not good news indeed. What is to be done? Can you muster enough men to meet them in battle?"
 
 "Not from here alone, but Gilraen has other forces that might be called to help. You are traveling to Rivendell, are you not?" I nodded. "Then tell the Fair Lady that I am prepared to meet the Orcs but need assistance. Our numbers are too few of late. But stay with us here tonight. You will be safe here and can rest well."
 
@@ -42,29 +42,29 @@ Just then Halbarad threw open the tent flaps. "Get up quickly! We may need your 
 
 "Of course, Halbarad. My sword is yours." I answered. 
 
-"And my bow." added Galamdir.
+"And my bow." added Amdiriel.
 
 "And my axe!" shouted Gorin. "Let those overgrown mutts just try to get past me axe! They'll not get past us!"
 
-And then the battle was on. Halbarad and his men ran westward over the hill. It was not long before we heard the sounds of battle wafting trhough the trees. Galamdir looked at me with haste in her eyes, "We should seek defensive positions, Ereborn." She was right, we had delayed too long already.
+And then the battle was on. Halbarad and his men ran westward over the hill. It was not long before we heard the sounds of battle wafting trhough the trees. Amdiriel looked at me with haste in her eyes, "We should seek defensive positions, Ereborn." She was right, we had delayed too long already.
 
 She took up a position atop a large stack of crates. I found some smaller crates and prepared to fire my bow from their protection while Gorin stood anxiously by my side. "I hope some get through! I don't want them Rangers to have all the fun!" As if on queue the first warg approached the camp. It was large, much larger than the wolves we encountered earlier in the summer. Then a second and a third, the last to arrive was even larger than his brothers. His eyes seemed to glow with red fire. His fangs were long and sharp.
 
-Before they could locate us, Galamdir loosed an arrow into the big warg, who growled in defiance as struck him in the side. Now alert the other two sought the source of their foe and seeing Galamdir atop the crates, they charged, followed by their leader.
+Before they could locate us, Amdiriel loosed an arrow into the big warg, who growled in defiance as struck him in the side. Now alert the other two sought the source of their foe and seeing Amdiriel atop the crates, they charged, followed by their leader.
 
 But Gorin stood in their way like a red-topped rock. Letting the first two pass by, his axe swung mightily at the large warg. With a great battle cry, his axe found purchase and the great monster let out a painful yelp. The other two were on me in seconds.
 
-I managed to hit one of the wargs attacking me and Galamdir set an arrow flying into his hide as well, but he did not go down. His companion lunged at me and his fangs bit down on my arm. The warg leader's eyes glowed with hate for his red-bearded enemy and he bit down hard on Gorin's leg. But Gorin firmly stood his ground.
+I managed to hit one of the wargs attacking me and Amdiriel set an arrow flying into his hide as well, but he did not go down. His companion lunged at me and his fangs bit down on my arm. The warg leader's eyes glowed with hate for his red-bearded enemy and he bit down hard on Gorin's leg. But Gorin firmly stood his ground.
 
-The injured warg joined in the fight against Gorin, but Gorin's axe struck again and the fire went out of those red eyes. My sword struck my remaining foe squarely in the neck and he went down without a sound. "There are more running in from the woods!" shouted Galamdir.
+The injured warg joined in the fight against Gorin, but Gorin's axe struck again and the fire went out of those red eyes. My sword struck my remaining foe squarely in the neck and he went down without a sound. "There are more running in from the woods!" shouted Amdiriel.
 
-Gorin's axe took out one of the newcomers with a single blow and I landed a good blow on another, but it kept coming. An arrow from Galamdir stopped him in his tracks. My remaining foe managed to get inside my sword arm by feinting left, and I felt his jaw clamp down hard on my thigh, drawing blood.
+Gorin's axe took out one of the newcomers with a single blow and I landed a good blow on another, but it kept coming. An arrow from Amdiriel stopped him in his tracks. My remaining foe managed to get inside my sword arm by feinting left, and I felt his jaw clamp down hard on my thigh, drawing blood.
 
-Galamdir called out once again. Another monster appeared on the edge of camp, blood dripping from his jaws. This one was even larger than his brother. Red eyes sought his prey and he charged Gorin. The great beast leapt at Gorin and his axe met it in mid-air, slicing a deep gash in it's side. Whoosh! An arrow pierced it's heart and it fell at Gorin's feet. Galamdir smiled and nodded to the dwarf.
+Amdiriel called out once again. Another monster appeared on the edge of camp, blood dripping from his jaws. This one was even larger than his brother. Red eyes sought his prey and he charged Gorin. The great beast leapt at Gorin and his axe met it in mid-air, slicing a deep gash in it's side. Whoosh! An arrow pierced it's heart and it fell at Gorin's feet. Amdiriel smiled and nodded to the dwarf.
 
 I retreated a few steps and as my opponent thinking I was mortally wounded, charged recklessly only to find the point of my sward waiting. One more warg down and one was left, intent on feasting on dwarf. It darted beneath the blow of his great axe and bit down on his thigh, but Gorin did not waiver. His axe came down one more time, severing the beast's head.
 
-I looked around, waiting for more wargs to rush the camp. "Galamdir, what do your elf eyes see from up there?"
+I looked around, waiting for more wargs to rush the camp. "Amdiriel, what do your elf eyes see from up there?"
 
 "Nothing. I see no more wargs for now. You are injured. I should take a look at that."
 
@@ -79,9 +79,20 @@ I looked around, waiting for more wargs to rush the camp. "Galamdir, what do you
 Halbarad looked me over. "You should tend to your wounds and rest up. You can leave tomorrow. Right now, you need to rest. We'll talk again after I tend to the lads. We lost a few in that fight. How did they find us? Or even know we were here?" 
 
 ------------------
-Galamdir carefully and skillfully tended my wounds. Even with the pain burning in my thigh, I slept like an infant that night. I was glad that we took another day before traveling to Rivendell. If we found ourselves in another fight, I would not be much help. Though I slept well, Galamdir and Gorin woke with a new heaviness about them. I understood, it sometimes felt like the enemy was a weight around your neck and with the events of yesterday, I understood how they felt.
+Amdiriel carefully and skillfully tended my wounds. Even with the pain burning in my thigh, I slept like an infant that night. I was glad that we took another day before traveling to Rivendell. If we found ourselves in another fight, I would not be much help. Though I slept well, Amdiriel and Gorin woke with a new heaviness about them. I understood, it sometimes felt like the enemy was a weight around your neck and with the events of yesterday, I understood how they felt.
 
-> Everyone gains 2 shadow points (dread). Gorin and Galamdir fail their Shadow Tests. Ereborn succeeds with one Tengwar, removing both new shadow points.
+> Everyone gains 2 shadow points (dread). Gorin and Amdiriel fail their Shadow Tests. Ereborn succeeds with one Tengwar, removing both new shadow points.
+
+## A Few Days Rest
+The next morning I awoke well after first light. Gorin and Amdiriel had left their beds and I heard the hearty sounds of the camp as they broke their fast. "Hello. Why did you not wake me? We should be on our way." I said as I limped over to the fire.
+
+"Laddie, we can wait a day or two more while you gain a bit o' strength in that leg o' yours. Halnarad sent runners to Gilraen telling her to expect us soon." With that Gorin took a long swig from his mug.
+
+Halbarad walked over to the fire and warned his hands. "I have a question for you, Ereborn. Do you think the wargs have been tracking you?"
+
+"I, I don't know. I suppose it is possible but we saw no sign of it. Ah, I hate being idle like this, but I suppose you two are right. We'll leave in a few days. Now, what's for breakfast?"
+
+So we stayed with the Rangers a few more days while my leg healed. We discussed the battle and exchanged more of the things we had learned in our travels. At last
 
 
 
