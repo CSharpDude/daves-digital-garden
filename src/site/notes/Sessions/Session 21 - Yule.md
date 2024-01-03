@@ -4,7 +4,7 @@
 
 [[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
-<< [[]] \| [[]] >>
+<< [[Sessions/Session 20 - Return to Rivendell\|Session 20 - Return to Rivendell]] | [[]] >>
 ### Recap
 
 
