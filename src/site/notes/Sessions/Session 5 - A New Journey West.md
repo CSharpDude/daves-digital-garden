@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-5-a-new-journey-west/","tags":["TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Sessions/Session 4 (Fellowship)\|Session 4 (Fellowship)]] | [[Sessions/Session 6 - Barrow Downs\|Session 6 - Barrow Downs]] >>
 ### Recap
 In Session 4 of the Fellowship's journey in Middle-earth, they returned to Rivendell after their encounter with orcs at Rhudaur's Eye. They informed Gilraen the Fair about the events and the potential threat of a larger force. Gilraen examined a magical sword they had found and warned them of its power and potential dangers. The Fellowship enjoyed the hospitality of the Elves in Rivendell, and Gorin recovered from his injuries. They also had a brief encounter with Arwen Undómiel, which left them in awe. The next day, Gilraen called them to discuss a powerful servant of the enemy seen near Bree, and she tasked the Fellowship with investigating and foiling their plans. They prepared for their journey and set off on August 21.
@@ -28,7 +28,7 @@ The next morning we met in the common room to break our fast with a tasty meal o
 
 "Aye. But what's that different from any of these days. Queer things afoot. Ain't that normal, at least in the Pony" he said with a laugh. "I did here some of the farmers and traders talk of strange lights o'er the downs at night. Ain't seen 'em myself cause I'm always here at night. There's a trader name of Tom Little that was talking about such things. He left for the Shire but should be back tonight. Mayhaps you can catch him."
 
-Thanking Barnabas for the information, I went back to our table. Gorin and Galamdir were content to wait until night and see if the trader showed. we ordered another round of biscuits and listened to Gorin tell more of his stories of dwarven kingdoms and treasures.
+Thanking Barnabas for the information, I went back to our table. Gorin and Amdiriel were content to wait until night and see if the trader showed. we ordered another round of biscuits and listened to Gorin tell more of his stories of dwarven kingdoms and treasures.
 
 We met again in the common room before nightfall. The room quickly filled with all sorts of folk from common to trader to Bree-hobbit and even an elf of two. It was hard to see who came and went, but Barnabas assured us he would tell us when the Tom came in. Raucous singing and laughter marked a table of three dwarfs who were celebrating, well I don't know because dwarfs seemed to celebrate everything with pints upon pints of ale! Gorin went over to talk with them when Baranabas tilted his head towards a slight man coming through the door.
 
