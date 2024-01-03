@@ -23,6 +23,8 @@
 [[Sessions/Session 17 - Shadowwing Tower\|Session 17 - Shadowwing Tower]]
 [[Sessions/Session 18 - (Fellowship) Bree\|Session 18 - (Fellowship) Bree]]
 [[Sessions/Session 19 - Finding Halbarad\|Session 19 - Finding Halbarad]]
+[[Sessions/Session 20 - Return to Rivendell\|Session 20 - Return to Rivendell]]
+[[Sessions/Session 21 - Yule\|Session 21 - Yule]]
 
 ![Border White 3.png](/img/user/zz_assetts/Border%20White%203.png)
 
