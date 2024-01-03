@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sessions/session-1-a-ranger-is-missing/","tags":["gilraen","session","bree","hobbiton","TOR","tolkien","lord-of-the-rings","middle-earth"]}
 ---
 
-[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumours\|Rumours]] | [[Adversaries/Adversaries\|Adversaries]]
+[[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]]
 << [[Home\|Home]] | [[Sessions/Session 2 - Back to Bree\|Session 2 - Back to Bree]] >>
 
 ## Note About These Session Logs
@@ -17,7 +17,7 @@ of them? She told us he went to the Shire and was supposed to be in Hobbiton. Hi
 | ----- | ----- | ----- |
 | Guide: | Gorin |xxx|
 | Scout: | Ereborn |xxxxx |
-| Lookout: | Galamdir |xxxxx | 
+| Lookout: | Amdiriel |xxxxx | 
 | Hunter: | Ereborn |  |
 
 We set out on July 1, deciding to follow the road. We would stop at Bree to as around and then continue to Hobbiton. The journey should take about a week, not accounting for stopping in Bree.
@@ -27,7 +27,7 @@ EVENT:
 Target: Scout
 Event: Joyful Sight
 Result: Success
-While on the road, just south of the Trollshaws, we saw movement in the trees ahead. Galamdir quieted us. Her keen elf eyes saw that a pure white stag was moving towards the road. We all gasped as the glorious beast crossed the road ahead of us, lifting our spirits. Gorin took this as an omen of good fortune for our quest.
+While on the road, just south of the Trollshaws, we saw movement in the trees ahead. Amdiriel quieted us. Her keen elf eyes saw that a pure white stag was moving towards the road. We all gasped as the glorious beast crossed the road ahead of us, lifting our spirits. Gorin took this as an omen of good fortune for our quest.
 
 Gain 1 day.
 
