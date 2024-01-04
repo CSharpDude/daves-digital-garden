@@ -7,3 +7,4 @@
 
 [[Patrons/Gilraen\|Gilraen]]
 [[Patrons/Gandalf\|Gandalf]]
+[[Patrons/Elrond\|Elrond]]
