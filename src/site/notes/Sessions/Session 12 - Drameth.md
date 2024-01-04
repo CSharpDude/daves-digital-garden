@@ -26,7 +26,7 @@ When Drameth disappeared the remaining Wraiths retreated back into the shadows. 
 
 Nalien calmed down after a while and seemed more lucid than ever we had seen her. Thanking Amdiriel she rose to her feet. "I believe that Drameth is finally at rest and is houseless no more. I would have wanted it to end differently but perhaps this is the only path open to her. Thank you all for caring for me while I was - somewhere else in my mind."
 
-"Now I am ready to sail from Middle Earth. I will make my way to the Grey Havens. Again you have my thanks. Before I go, I leave you with these gifts." Nalien removed her bow from her shoulder and laid it in Amdiriel's hands. "This is Thaliondir - the Starlight Bow, made by the bow-master Aerandir. It is said he infused the light of the stars in it, providing guidance to the arrows that fly from it, even in darkness."
+"Now I am ready to sail from Middle Earth. I will make my way to the Grey Havens. Again you have my thanks. Before I go, I leave you with these gifts." Nalien removed her bow from her shoulder and laid it in Amdiriel's hands. "This is Gilthoniel - the Starlight Bow, made by the bow-master Aerandir. It is said he infused the light of the stars in it, providing guidance to the arrows that fly from it, even in darkness."
 
 "To you Ereborn I leave Elessar's Grace." She held out a beautiful crystal pendant. "Call upon it when your wounds are great."
 
@@ -40,8 +40,8 @@ We headed south, back to the Greenway and then to Bree once more.
 
 The company receives:
 
-**The Bow Thaliondir**
-This mysterious longbow is rumored to have been crafted by the elves of Lothlórien using starlight and shadow. Thaliondir grants the wielder a bonus to ranged damage (6) and injury (18) and deals additional damage +1d against creatures of darkness, such s a Balrog. Once per day, the archer can spend a Hope point to fire an arrow infused with pure starlight, piercing through the shadows and revealing hidden enemies, granting the <u>company</u> +1d advantage on the attack for one round and potentially bypassing their defenses (-1 to piercing).
+**The Bow Gilthoniel**
+This mysterious longbow is rumored to have been crafted by the elves of Lothlórien using starlight and shadow. Gilthoniel grants the wielder a bonus to ranged damage (6) and injury (18) and deals additional damage +1d against creatures of darkness, such s a Balrog. Once per day, the archer can spend a Hope point to fire an arrow infused with pure starlight, piercing through the shadows and revealing hidden enemies, granting the <u>company</u> +1d advantage on the attack for one round and potentially bypassing their defenses (-1 to piercing).
 
 **Elessar's Grace**
 This beautiful pendant, crafted by the elves, grants the wearer enhanced healing abilities. Once per day, the wearer can spend a Hope point to instantly recover from a wound or fatigue, restoring them to full health and vigor.
