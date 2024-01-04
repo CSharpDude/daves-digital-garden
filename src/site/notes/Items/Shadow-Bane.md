@@ -9,7 +9,6 @@ Shadow-Bane, The Blade of Arahel, Mán-belthor, the wraith-slayer
 ## Rewards
 ### Keen
 Attack rolls made with a Keen weapon score a Piercing Blow also on a result of 9 on the Feat die.
-
 ### Bane 
 Evil men and undead
 A Bane weapon provides special benefits against one or more creature types.
