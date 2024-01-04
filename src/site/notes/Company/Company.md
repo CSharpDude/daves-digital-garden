@@ -5,6 +5,8 @@
 
 [[Home\|Home]] | [[Company/Company\|Company]] | [[Patrons/Patrons\|Patrons]] | [[Rumors/Rumors\|Rumors]] | [[Adversaries/Adversaries\|Adversaries]] | [[Sessions/Session List\|Session List]]
 
+Fellowship name: I Farodyn - The Shadow Hunters
+
 Leader:
 [[Company/Ereborn\|Ereborn]], Human, Male, Rangers of the North
 
